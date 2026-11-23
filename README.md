@@ -20,4 +20,4 @@ TypeScript · Python · React / Next.js · FastAPI · C on ESP32 · local and ho
 
 #### Find me
 
-<!-- add LinkedIn / email / site here -->
+[LinkedIn](https://www.linkedin.com/in/sarthaklol/) · [trojan5779@gmail.com](mailto:trojan5779@gmail.com)
