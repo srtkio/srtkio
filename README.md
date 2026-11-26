@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/srtkio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Vibe+coder%2C+but+an+effective+one;Hackathon+regular+%C2%B7+CTF+player+with+Team+Trojans;Scam+mails+caught+with+evidence%2C+not+vibes;RAG+failures+traced+to+the+part+that+broke;Building+TROJAN%2C+an+ESP32+quadruped+robot;Controlling+my+Mac+with+my+hands+(Wave);First-year+CS+%2B+AI+student" alt="What I do" /></a>
+<a href="https://github.com/srtkio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Senior+Vibe+Engineer+(self-appointed);Vibe+coder%2C+but+an+effective+one;10x+developer+(Claude+does+9+of+the+x);Hackathon+regular+%C2%B7+CTF+player+with+Team+Trojans;Scam+mails+caught+with+evidence%2C+not+vibes;RAG+failures+traced+to+the+part+that+broke;Building+TROJAN%2C+an+ESP32+quadruped+robot;Controlling+my+Mac+with+my+hands+(Wave);First-year+CS+%2B+AI+student" alt="What I do" /></a>
 
 <a href="https://www.linkedin.com/in/sarthaklol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:trojan5779@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -17,6 +17,13 @@
 I build things that prove their own answers: scam mails caught with evidence, RAG failures traced to the part that broke, city complaints closed only when the fix is verified.
 
 Hackathon regular · CTF player with Team Trojans · currently building a quadruped robot from scratch.
+
+### Character sheet
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/sheet-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/sheet-light.svg" alt="Character sheet. Class: Vibe Coder. Level: first-year CS + AI. Guild: Team Trojans. Stats: VIBE 20, PROMPT 19, SHIP 17, DEBUG 14, SLEEP 3, TOUCH GRASS 2. Familiar: Claude (legendary). Quest log: MAILicious, RAGSeal, CONVERGE, Tokenscope, AgriInspect, Wave v0.2 done; teaching TROJAN to walk." />
+</picture>
 
 ### What I've built
 
