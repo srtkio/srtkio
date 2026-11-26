@@ -22,6 +22,7 @@ Hackathon regular · CTF player with Team Trojans · currently building a quadru
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Wave**](https://github.com/srtkio/wave) | Control your Mac with your hands through the webcam: trackpad-style cursor, pinch to click and drag, hand signs for shortcuts, and a pill that grows out of the notch to show what it did. All on-device. | Swift, SwiftUI, Apple Vision |
 | [**MAILicious**](https://github.com/srtkio/mailicious) · [live](https://mailicious.vercel.app) | Catches fake placement mails and scams inside Gmail before a student replies, pays or clicks. Checks SPF/DKIM/DMARC, links, Google Forms and the company itself, and shows the proof. | TypeScript, Chrome extension, Gemini |
 | [**RAGSeal**](https://github.com/srtkio/RAGSeal) · [live](https://ragseal.vercel.app) | When a RAG answer is wrong, proves whether the retriever or the generator caused it. Built at HYPNEXIS'26. | FastAPI, React, Ollama, Groq |
 | [**CONVERGE**](https://github.com/srtkio/converge_trojans) · [live](https://converge-web-ten.vercel.app) | Civic complaint platform: groups duplicate reports, escalates missed SLAs, and closes a case only when evidence proves the fix. Every decision is audited. | Next.js, FastAPI |
@@ -37,7 +38,7 @@ Hackathon regular · CTF player with Team Trojans · currently building a quadru
 
 ### Currently exploring
 
-- 🖐️ **Hand tracking on the Mac**: cursor control, hand-sign shortcuts and a notch HUD with Apple Vision (*Wave*)
+- 🖐️ **Hand tracking on the Mac**: cursor control, hand-sign shortcuts and a notch HUD with Apple Vision ([*Wave*](https://github.com/srtkio/wave))
 - 🦿 **Robotics**: gaits, servos and firmware for an ESP32 quadruped
 - 🧠 **Local LLMs**: running, tracing and breaking them on my own laptop
 - 🕵️ **CTFs and forensics** with Team Trojans
@@ -76,6 +77,11 @@ I'm a vibe coder and I'm not hiding it: my commits say *Co-Authored-By: Claude*.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=srtkio&theme=github-compact&hide_border=true&area=true" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srtkio&theme=minimal&hide_border=true&area=true" alt="Contribution activity" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/lab-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/lab-light.svg" alt="TROJAN, my robot dog, trotting; Wave's notch pill cycling Cursor on, Next track, Play / Pause, Screenshot" />
 </picture>
 
 
