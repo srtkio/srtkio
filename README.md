@@ -78,10 +78,6 @@ I'm a vibe coder and I'm not hiding it: my commits say *Co-Authored-By: Claude*.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srtkio&theme=minimal&hide_border=true&area=true" alt="Contribution activity" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srtkio/srtkio/output/snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/srtkio/srtkio/output/snake.svg" alt="Snake eating my contribution graph" />
-</picture>
 
 </div>
 
