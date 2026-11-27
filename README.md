@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/srtkio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Senior+Vibe+Engineer+(self-appointed);Vibe+coder%2C+but+an+effective+one;10x+developer+(Claude+does+9+of+the+x);Hackathon+regular+%C2%B7+CTF+player+with+Team+Trojans;Scam+mails+caught+with+evidence%2C+not+vibes;RAG+failures+traced+to+the+part+that+broke;Building+TROJAN%2C+an+ESP32+quadruped+robot;Controlling+my+Mac+with+my+hands+(Wave);First-year+CS+%2B+AI+student" alt="What I do" /></a>
+<a href="https://github.com/srtkio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Senior+Vibe+Engineer+(self-appointed);Vibe+coder%2C+but+an+effective+one;10x+developer+(Claude+does+9+of+the+x);Hackathon+regular+%C2%B7+CTF+player+with+Team+Trojans;Scam+mails+caught+with+evidence%2C+not+vibes;RAGSeal%3A+3rd+place+at+HYPNEXIS+2026;Building+TROJAN%2C+an+ESP32+quadruped+robot;Controlling+my+Mac+with+my+hands+(Wave);First-year+CS+%2B+AI+student" alt="What I do" /></a>
 
 <a href="https://www.linkedin.com/in/sarthaklol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:trojan5779@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -18,6 +18,31 @@ I build things that prove their own answers: scam mails caught with evidence, RA
 
 Hackathon regular · CTF player with Team Trojans · currently building a quadruped robot from scratch.
 
+### 🏆 Spotlight: RAGSeal
+
+<p align="center">
+  <b>🥉 3rd place · HYPNEXIS 2026</b> · Problem statement AI-04 · Team Monster Energy
+</p>
+
+> **When a RAG answer is wrong, RAGSeal proves whether the retriever or the generator caused it.**
+
+From the outside, a hallucination and a retrieval miss look exactly the same, so teams end up blaming the model when search missed the chunk, or tuning chunk sizes when the model simply made something up. RAGSeal ends the guessing:
+
+- **Three checks on every answer:** did the retriever fetch the facts, did the generator stick to them, and does the answer match the truth?
+- **Counterfactual replay:** when an answer fails, it reruns the generator with *only* the gold passage. Fixed means the retriever was at fault; still wrong means the generator was.
+- **A verdict, not a score:** a deterministic decision tree names the component that broke and why. It runs on local models (Ollama) with hosted grading (Groq).
+
+<p align="center">
+  <a href="https://github.com/srtkio/RAGSeal"><img width="88%" src="https://raw.githubusercontent.com/srtkio/RAGSeal/main/docs/assets/hero.png" alt="RAGSeal dashboard" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ragseal.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-ragseal.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/srtkio/RAGSeal"><img src="https://img.shields.io/badge/Code-srtkio%2FRAGSeal-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+</p>
+
+The project closest to my heart. A lot of late nights went into it, and it took us to the podium.
+
 ### Character sheet
 
 <picture>
@@ -31,7 +56,7 @@ Hackathon regular · CTF player with Team Trojans · currently building a quadru
 |---|---|---|
 | [**Wave**](https://github.com/srtkio/wave) | Control your Mac with your hands through the webcam: trackpad-style cursor, pinch to click and drag, hand signs for shortcuts, and a pill that grows out of the notch to show what it did. All on-device. | Swift, SwiftUI, Apple Vision |
 | [**MAILicious**](https://github.com/srtkio/mailicious) · [live](https://mailicious.vercel.app) | Catches fake placement mails and scams inside Gmail before a student replies, pays or clicks. Checks SPF/DKIM/DMARC, links, Google Forms and the company itself, and shows the proof. | TypeScript, Chrome extension, Gemini |
-| [**RAGSeal**](https://github.com/srtkio/RAGSeal) · [live](https://ragseal.vercel.app) | When a RAG answer is wrong, proves whether the retriever or the generator caused it. Built at HYPNEXIS'26. | FastAPI, React, Ollama, Groq |
+| [**RAGSeal**](https://github.com/srtkio/RAGSeal) · [live](https://ragseal.vercel.app) | When a RAG answer is wrong, proves whether the retriever or the generator caused it. 🥉 3rd place at HYPNEXIS 2026. | FastAPI, React, Ollama, Groq |
 | [**CONVERGE**](https://github.com/srtkio/converge_trojans) · [live](https://converge-web-ten.vercel.app) | Civic complaint platform: groups duplicate reports, escalates missed SLAs, and closes a case only when evidence proves the fix. Every decision is audited. | Next.js, FastAPI |
 | [**TROJAN**](https://github.com/srtkio/trojan-robot) | An 8-servo ESP32 quadruped built from the Sesame Robot, with from-scratch firmware, a phone remote, CAD and documentation. | C, ESP32, CAD |
 | [**Tokenscope**](https://github.com/srtkio/llm-pipeline-explorer) | Train a BPE tokenizer from scratch, encode sentences, and explore word embeddings in 3D, all in the browser with no server. | TypeScript, transformers.js, UMAP |
