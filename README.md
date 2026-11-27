@@ -18,30 +18,7 @@ I build things that prove their own answers: scam mails caught with evidence, RA
 
 Hackathon regular · CTF player with Team Trojans · currently building a quadruped robot from scratch.
 
-### 🏆 Spotlight: RAGSeal
-
-<p align="center">
-  <b>🥉 3rd place · HYPNEXIS 2026</b> · Problem statement AI-04 · Team Monster Energy
-</p>
-
-> **When a RAG answer is wrong, RAGSeal proves whether the retriever or the generator caused it.**
-
-From the outside, a hallucination and a retrieval miss look exactly the same, so teams end up blaming the model when search missed the chunk, or tuning chunk sizes when the model simply made something up. RAGSeal ends the guessing:
-
-- **Three checks on every answer:** did the retriever fetch the facts, did the generator stick to them, and does the answer match the truth?
-- **Counterfactual replay:** when an answer fails, it reruns the generator with *only* the gold passage. Fixed means the retriever was at fault; still wrong means the generator was.
-- **A verdict, not a score:** a deterministic decision tree names the component that broke and why. It runs on local models (Ollama) with hosted grading (Groq).
-
-<p align="center">
-  <a href="https://github.com/srtkio/RAGSeal"><img width="88%" src="https://raw.githubusercontent.com/srtkio/RAGSeal/main/docs/assets/hero.png" alt="RAGSeal dashboard" /></a>
-</p>
-
-<p align="center">
-  <a href="https://ragseal.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-ragseal.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
-  <a href="https://github.com/srtkio/RAGSeal"><img src="https://img.shields.io/badge/Code-srtkio%2FRAGSeal-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-</p>
-
-The project closest to my heart. A lot of late nights went into it, and it took us to the podium.
+🥉 Proudest of [**RAGSeal**](https://github.com/srtkio/RAGSeal), which took 3rd place at HYPNEXIS 2026.
 
 ### Character sheet
 
