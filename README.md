@@ -2,15 +2,19 @@
 
 <div align="center">
 
-<a href="https://github.com/srtkio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Senior+Vibe+Engineer+(self-appointed);Vibe+coder%2C+but+an+effective+one;10x+developer+(Claude+does+9+of+the+x);Hackathon+regular+%C2%B7+CTF+player+with+Team+Trojans;Scam+mails+caught+with+evidence%2C+not+vibes;RAGSeal%3A+3rd+place+at+HYPNEXIS+2026;Building+TROJAN%2C+an+ESP32+quadruped+robot;Controlling+my+Mac+with+my+hands+(Wave);First-year+CS+%2B+AI+student" alt="What I do" /></a>
+<a href="https://github.com/srtkio"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=I+chase+the+ideas+people+call+too+weird;If+it+breaks%2C+I+find+the+exact+line;New+stack+every+hackathon.+Shipped+every+time.;Hackathon+regular+%C2%B7+CTF+player+with+Team+Trojans;Scam+mails+caught+with+evidence%2C+not+vibes;RAGSeal%3A+3rd+place+at+HYPNEXIS+2026;Building+TROJAN%2C+an+ESP32+quadruped+robot;Controlling+my+Mac+with+my+hands+(Wave);First-year+CS+%2B+AI+student" alt="What I do" /></a>
 
 <a href="https://www.linkedin.com/in/sarthaklol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:trojan5779@gmail.com"><img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Built%20with-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Built with Claude" />
-<img src="https://img.shields.io/badge/Vibe%20coder-but%20effective-8957e5?style=for-the-badge" alt="Vibe coder, but effective" />
 <img src="https://komarev.com/ghpvc/?username=srtkio&style=for-the-badge&color=1f6feb&label=Profile+views" alt="Profile views" />
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/cat-dark.svg" />
+  <img align="right" width="300" src="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/cat-light.svg" alt="ASCII art of my avatar: a cat leaping in front of a fiery explosion" />
+</picture>
 
 ### Hey, I'm Sarthak 👋
 
@@ -20,11 +24,13 @@ Hackathon regular · CTF player with Team Trojans · currently building a quadru
 
 🥉 Proudest of [**RAGSeal**](https://github.com/srtkio/RAGSeal), which took 3rd place at HYPNEXIS 2026.
 
+<br clear="all" />
+
 ### Character sheet
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/sheet-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/sheet-light.svg" alt="Character sheet. Class: Vibe Coder. Level: first-year CS + AI. Guild: Team Trojans. Stats: VIBE 20, PROMPT 19, SHIP 17, DEBUG 14, SLEEP 3, TOUCH GRASS 2. Familiar: Claude (legendary). Quest log: MAILicious, RAGSeal, CONVERGE, Tokenscope, AgriInspect, Wave v0.2 done; teaching TROJAN to walk." />
+  <img width="100%" src="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/sheet-light.svg" alt="Character sheet. Class: Builder and Bug Hunter. Level: first-year CS + AI. Guild: Team Trojans. Stats: Ideation 20, Debugging 19, Stack range 18, Ship 17, Sleep 3, Touch grass 2. Familiar: Claude (legendary). Quest log: MAILicious, RAGSeal (3rd at HYPNEXIS 2026), CONVERGE, Tokenscope, AgriInspect, Wave v0.2 done; teaching TROJAN to walk." />
 </picture>
 
 ### What I've built
@@ -39,11 +45,22 @@ Hackathon regular · CTF player with Team Trojans · currently building a quadru
 | [**Tokenscope**](https://github.com/srtkio/llm-pipeline-explorer) | Train a BPE tokenizer from scratch, encode sentences, and explore word embeddings in 3D, all in the browser with no server. | TypeScript, transformers.js, UMAP |
 | [**AgriInspect**](https://github.com/srtkio/AgriGrade) | AI-assisted onion quality inspection for procurement centres, built for SIH 2026. AI observes, standards decide, humans stay in control. | Kotlin, computer vision |
 
-### Tools I reach for
+### Stack I've shipped with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,py,c,swift,kotlin,react,nextjs,fastapi,tailwind,arduino,git,vercel&perline=12" alt="TypeScript, Python, C, Swift, Kotlin, React, Next.js, FastAPI, Tailwind, Arduino/ESP32, Git, Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,swift,kotlin,c,cpp,html,css,bash&perline=10" alt="TypeScript, JavaScript, Python, Swift, Kotlin, C, C++, HTML, CSS, Bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,nodejs,bun,pnpm,fastapi&perline=10" alt="React, Next.js, Vite, Tailwind, Three.js, Node.js, Bun, pnpm, FastAPI" /><br/>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,supabase,docker,vercel,arduino,git,vitest&perline=10" alt="SQLite, Postgres, Supabase, Docker, Vercel, Arduino/ESP32, Git, Vitest" />
 </p>
+
+| | |
+|---|---|
+| **AI** | Gemini · Claude API · Groq · NVIDIA NIM · Ollama · transformers.js · Apple Vision · Tavily |
+| **Apps** | SwiftUI + AppKit (macOS) · Jetpack Compose + CameraX + Room (Android) · Chrome extensions (MV3) |
+| **Frontend** | React Three Fiber · Leaflet · TanStack · shadcn/ui · Motion · Recharts · React Flow |
+| **Backend** | FastAPI · SQLModel · Next.js route handlers · Google Apps Script |
+| **Hardware** | ESP32 · servos + OLED · Fusion 360 · CadQuery |
+| **Ship** | Vercel · Render · Docker · pytest · Vitest · ESLint |
 
 ### Currently exploring
 
@@ -57,13 +74,13 @@ Hackathon regular · CTF player with Team Trojans · currently building a quadru
 
 ```console
 > who are you without Claude?
-$ a first-year with 40 browser tabs, a dead charger and a deadline in 3 hours
+$ the same guy who finds the bug. just slower.
 
 > ...and with Claude?
 $ 8 shipped projects in 6 months, a robot dog and a Mac I control by waving at it 🚀
 ```
 
-I'm a vibe coder and I'm not hiding it: my commits say *Co-Authored-By: Claude*. The ideas, the decisions and the testing at 3 am are mine.
+Claude writes a lot of my code, and my commits say so. Deciding what to build, how the pieces fit and why it broke at 3 am is on me.
 
 ### Numbers
 
