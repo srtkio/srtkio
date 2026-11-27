@@ -11,11 +11,6 @@
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/cat-dark.svg" />
-  <img align="right" width="300" src="https://raw.githubusercontent.com/srtkio/srtkio/main/assets/cat-light.svg" alt="ASCII art of my avatar: a cat leaping in front of a fiery explosion" />
-</picture>
-
 ### Hey, I'm Sarthak 👋
 
 I build things that prove their own answers: scam mails caught with evidence, RAG failures traced to the part that broke, city complaints closed only when the fix is verified.
@@ -23,8 +18,6 @@ I build things that prove their own answers: scam mails caught with evidence, RA
 Hackathon regular · CTF player with Team Trojans · currently building a quadruped robot from scratch.
 
 🥉 Proudest of [**RAGSeal**](https://github.com/srtkio/RAGSeal), which took 3rd place at HYPNEXIS 2026.
-
-<br clear="all" />
 
 ### Character sheet
 
